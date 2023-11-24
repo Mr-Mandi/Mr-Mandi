@@ -1,0 +1,4 @@
+- 👋 Hello, I'm @Mr-Mandi
+- 👀 I am interested in Python Dev
+- 🌱 I am currently learning Data Science
+- 📫 How to contact me mandi.duquesa@gmail.com
